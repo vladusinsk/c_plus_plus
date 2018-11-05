@@ -19,23 +19,8 @@ YES
 
 #include <iostream>
 #include <stdio.h>  
-#include <map>  
-/*
-1749
-4
-1
-4
-6
-1749
- 
- 
-1 4
-6 1749
-*/
- 
  
 using namespace std;
- 
  
 void matrix()
 {
@@ -71,7 +56,6 @@ void matrix()
         }
         k = 0;
     }
- 
 }
  
 int main()
